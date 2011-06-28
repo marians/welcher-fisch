@@ -32,12 +32,14 @@ gebracht, das im Browser eines Smartphones vernünftig dargestellt werden kann.
 Konkrete Pläne zum weiteren Ausbau gibt es noch nicht. Allerdings ist mir bewusst, dass der jetztige Zustand einige
 Schwachpunkte hat:
 
-* Die Liste ist bei weitem nicht vollständig
-* Es gibt keine Nachvollziehbarkeit für jede einzelne Einstufung
-* Es fehlen hübsche Bookmark-Icons für den Home-Screen
+* Die Liste ist bei weitem nicht vollständig.
+* Es gibt keine Nachvollziehbarkeit für jede einzelne Einstufung.
+* Die Einstufung erfolgt rein nach Kriterien der Bestandserhaltung. Weitere Aspekte der Nachhaltigkeit, die beispielsweise bei Aquakulturen (z.B. Bio-Lachs) hinterfragt werden könnten/sollten, bleiben außen vor.
+* Es könnten weitere Quellen für die Einstufung herangezogen werden
+* Es fehlen hübsche Bookmark-Icons für den Home-Screen.
 
 Wenn Du daran arbeiten möchtest, kannst Du gerne mit mir in Kontakt treten und konkrete Verbesserungsvorschläge
-diskutieren. Oder, noch besser, du forkst das Projekt auf GitHub und erstellst Pull Requests.
+diskutieren. Und am einfachsten forkst das Projekt auf GitHub und erstellst Pull Requests.
 
 ##Lizenz:
 

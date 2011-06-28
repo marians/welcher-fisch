@@ -267,6 +267,10 @@ span.msc {
 	top: -2px;
 }
 
+.moreinfo {
+	display: none;
+}
+
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
  */
