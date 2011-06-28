@@ -1,64 +1,53 @@
-#Mobile Boilerplate http://html5boilerplate.com
-v1.0 (code named Secret Diary)
+#Welcher Fisch? Mobile Webapp
 
-##Summary:
+##Kurzbeschreibung:
 
-This is a set of features made specifically for mobile development, with following included:
+Dies ist eine kleine, mobile Web-Applikation, die es Einkäufern erleichtern soll, zu entscheiden, 
+welcher Fisch bedenkenlos gekauft werden kann.
 
-###Markup:
-Home screen icon (Android, iOS, Symbian)
-CSS class target IE Mobile 7
-Cross browser viewport optimization (Android, iOS, Mobile IE, Blackberry) 
-Optimized viewport scaling (Android, iOS, Mobile IE, Blackberry)
-IE Mobile better Font rendering
-Prevent scaling 
-iPhone full screen mode 
+##English summary:
 
-###CSS:
-Mobile helper class
-Prevent text resize in ie/webkit browser
-Prevent callout
-HTML5 contenteditable attribute on mobile
-S60 3.x and 5.0 devices which animated gif fix
-Text overflow with ellipsis
-Mobile optimized default CSS
+This is a small, mobile, German-language web-app that aims to help consumers decide which fish to buy.
 
-###JavaScript:
-Cross browser CSS media queries
-Textarea autogrow 
-Hide webkit chrome
-Insant button
-Firebug lite debugger
-Media queries for low end smartphone
+##Live im Web:
 
-###Server:
-Added Blackberry MIME type 
-Added Nokia MIME type
-Prevent Transcoding
-Mobile site redirection
+http://www.sendung.de/welcher-fisch/
 
-###General:
-HTML5 offline caching for smartphone 
-Mobile sitemap 
-Mobile bookmark bubble 
-Browser Database Wrapper API 
-User Agent Detection 
-GA for low end mobile devices 
-Mobile build tool
+##Hintergrund:
 
+Viele Arten von Fisch, die im Handel angeboten werden, sind in ihren Beständen bedroht. Manche ganz generell, 
+andere nur in einigen Fanggebieten.
 
+Wir als Konsumenten können mit unserer Kaufentscheidung ein Stück dazu beitragen, dass die bedrohten Bestände 
+nicht weiter dezimiert werden. Dazu brauchen wir Informationen darüber, welche Fische aus welchen Fanggebieten 
+bedenkenlos gekauft werden können.
 
-##License:
+Die ZEIT hat in der Ausgabe vom 11. Februar 2010 eine "Infografik" (1) veröffentlicht, in der eine Reihe von 
+handelsüblichen Arten in drei Kategorien ("Nachhaltig, gute Wahl", "Zustand kritisch, zweite Wahl" und 
+"Überfischt, lieber nicht!") eingeteilt. Diese Liste habe ich zunächst mal übernommen und in ein Format 
+gebracht, das im Browser eines Smartphones vernünftig dargestellt werden kann.
 
-###Major components:
-css3-mediaqueries.js: Public Domain<br />
-Bookmark bubble library: Apache License, Version 2.0<br />
-Web Storage Portability Layer: Apache License, Version 2.0<br />
-Modernizr: MIT/BSD license<br />
-jQuery: MIT/GPL license<br />
-HTML5Doctor CSS reset: Creative Commons 3.0 <br />
-CSS Reset Reloaded: Public Domain 
+##Pläne:
 
-###Everything else:
+Konkrete Pläne zum weiteren Ausbau gibt es noch nicht. Allerdings ist mir bewusst, dass der jetztige Zustand einige
+Schwachpunkte hat:
 
-The Unlicense (aka: public domain)
+* Die Liste ist bei weitem nicht vollständig
+* Es gibt keine Nachvollziehbarkeit für jede einzelne Einstufung
+* Es fehlen hübsche Bookmark-Icons für den Home-Screen
+
+Wenn Du daran arbeiten möchtest, kannst Du gerne mit mir in Kontakt treten und konkrete Verbesserungsvorschläge
+diskutieren. Oder, noch besser, du forkst das Projekt auf GitHub und erstellst Pull Requests.
+
+##Lizenz:
+
+CreativeCommons BY-SA
+http://creativecommons.org/licenses/by-sa/3.0
+
+##Quellen
+(1) http://www.zeit.de/2010/07/GSP-Ueberfischung
+
+## Kontakt
+
+http://twitter.com/MarianSteinbach
+http://www.sendung.de/about/
