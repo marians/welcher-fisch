@@ -51,7 +51,7 @@ Generelles Feedback kannst du natürlich auch einfach so an mich senden. Siehe w
 
 ##Lizenz
 
-Lizensiert unter [**CreativeCommons BY-SA**](http://creativecommons.org/licenses/by-sa/3.0).
+Lizensiert unter [CreativeCommons BY-SA](http://creativecommons.org/licenses/by-sa/3.0).
 
 ##Quellen
 
@@ -60,5 +60,5 @@ Lizensiert unter [**CreativeCommons BY-SA**](http://creativecommons.org/licenses
 
 ##Kontakt
 
-http://twitter.com/MarianSteinbach<br />
+http://twitter.com/MarianSteinbach  
 http://www.sendung.de/about/
