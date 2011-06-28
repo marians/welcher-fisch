@@ -29,13 +29,15 @@ gebracht, das im Browser eines Smartphones vernünftig dargestellt werden kann.
 
 Inzwischen sind vereinzelte Ergänzungen aus anderen Quellen eingeflossen.
 
-##Pläne
+##Pläne und Verbesserungswürdiges
 
 Ich werde nach und nach daran arbeiten, dieses Angebot zu verbessern. Aktuell sind mir diese Schwachstellen bewusst:
 
 * Die Liste ist bei weitem nicht vollständig.
 * Die Angaben (die mehrheitlich aus der ZEIT kommen) entsprechen in Teilen nicht den Angaben des Greenpeace Fischberaters [2]
-* Es gibt keine Nachvollziehbarkeit für jede einzelne Einstufung.
+* Es gibt noch keine Nachvollziehbarkeit für jede einzelne Einstufung.
+* Bei einer Angabe zu Hering wie "Hering, westliche Ostsee = kritisch" ist kaum klar, welche Fanggebiete noch als nicht kritisch übrig bleiben.
+  Das Problem relativiert sich natürlich, wenn man z.B. im Supermarkt am Regal steht und die zur Verfügung stehende Ware sieht.
 * Die Einstufung erfolgt rein nach Kriterien der Bestandserhaltung. Weitere Aspekte der Nachhaltigkeit, die beispielsweise bei Aquakulturen (z.B. Bio-Lachs) hinterfragt werden könnten/sollten, bleiben außen vor.
 * Es könnten weitere Quellen für die Einstufung herangezogen werden
 * Es fehlen hübsche Bookmark-Icons für den Home-Screen.
@@ -57,6 +59,11 @@ Lizensiert unter [CreativeCommons BY-SA](http://creativecommons.org/licenses/by-
 
 * [1] http://www.zeit.de/2010/07/GSP-Ueberfischung
 * [2] http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/meere/Fischratgeber_Web_01.pdf (Stand 11/2010)
+
+##Mögliche zukünftige Quellen
+
+* [Fischbestände Online](http://fischbestaende.portal-fischerei.de/fischarten/) - Eine Publikation des Instituts für Ostseefischerei und des vTI Johann Heinrich von Thünen-Instituts. Wird aktuell ausgebaut.
+* 
 
 ##Kontakt
 
