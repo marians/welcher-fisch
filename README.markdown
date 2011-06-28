@@ -56,7 +56,7 @@ Lizensiert unter [CreativeCommons BY-SA](http://creativecommons.org/licenses/by-
 ##Quellen
 
 * [1] http://www.zeit.de/2010/07/GSP-Ueberfischung
-* [2] http://www.greenpeace.de/themen/meere/fischerei/
+* [2] http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/meere/Fischratgeber_Web_01.pdf (Stand 11/2010)
 
 ##Kontakt
 
