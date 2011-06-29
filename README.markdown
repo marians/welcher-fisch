@@ -63,7 +63,7 @@ Lizensiert unter [CreativeCommons BY-SA](http://creativecommons.org/licenses/by-
 ##Mögliche zukünftige Quellen
 
 * [Fischbestände Online](http://fischbestaende.portal-fischerei.de/fischarten/) - Eine Publikation des Instituts für Ostseefischerei und des vTI Johann Heinrich von Thünen-Instituts. Wird aktuell ausgebaut.
-* 
+* [Information is Beautiful: Which fish are good to eat?](http://www.guardian.co.uk/news/datablog/2011/jun/24/information-beautiful-fish-eat) via Guardian Data Blog, mit ein paar weiteren Quellenangaben und einer Google-Docs-Tabelle mit Einzelnachweisen
 
 ##Kontakt
 
